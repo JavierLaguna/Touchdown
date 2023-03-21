@@ -1,9 +1,3 @@
-//
-//  TouchdownApp.swift
-//  Touchdown
-//
-//  Created by Javier Laguna on 16/3/23.
-//
 
 import SwiftUI
 
@@ -12,6 +6,7 @@ struct TouchdownApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(Shop())
         }
     }
 }
