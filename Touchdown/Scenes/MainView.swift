@@ -1,7 +1,7 @@
 
 import SwiftUI
 
-struct ContentView: View { // TODO: JLI RENAME
+struct MainView: View {
     
     @EnvironmentObject private var shop: Shop
     
@@ -55,10 +55,10 @@ struct ContentView: View { // TODO: JLI RENAME
     }
 }
 
-struct ContentView_Previews: PreviewProvider {
+struct MainView_Previews: PreviewProvider {
     
     static var previews: some View {
-        ContentView()
+        MainView()
             .environmentObject(Shop())
     }
 }
