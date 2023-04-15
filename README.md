@@ -1,20 +1,18 @@
-# 📱 SwiftUI Things
+# 📱 Touchdown
 
 ## 📝 Description
 
-Little iOS app for learn and test SwiftUI things.
+Little iOS app for learn SwiftUI.
 
 ## 📷 Screenshots
 
-![Main](/.readme_resources/main.png)
+![Launch](/.readme_resources/launch.png)
 
-![Slider](/.readme_resources/slider.png)
-![CircleGroup](/.readme_resources/circle_group.png)
+![Main](/.readme_resources/main_1.png)
+![Main 2](/.readme_resources/main_2.png)
 
-![Restart](/.readme_resources/restart.png)
-![Pinch](/.readme_resources/pinch.png)
-![Fructus](/.readme_resources/fructus.png)
-![Connect4](/.readme_resources/connect4.png)
+![Product](/.readme_resources/product_1.png)
+![Product 2](/.readme_resources/product_2.png)
 
 ## 💻 Author
 
